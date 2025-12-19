@@ -1,0 +1,3 @@
+[submodule "gazebo-sim-plugins-tutorial"]
+	path = gazebo-sim-plugins-tutorial
+	url = https://github.com/Hrithik-verma/gazebo-sim-plugins-tutorial.git
