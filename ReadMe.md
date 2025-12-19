@@ -19,7 +19,7 @@ Video link: Coming soon
 │   └── ...                        
 │
 ├── Dockerfile   # docker file to make the docker image
-├── docker-compose.yaml # docker container detials
+├── docker-compose.yaml # docker container setup details 
 │
 └── README.md
 ```
