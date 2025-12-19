@@ -27,6 +27,7 @@ Video link: Coming soon
 ## Clone
 ```bash
 git clone https://github.com/Hrithik-verma/ros2-jazzy-gazebo-harmonic-docker.git
+git submodule update --init --recursive
 ```
 
 
