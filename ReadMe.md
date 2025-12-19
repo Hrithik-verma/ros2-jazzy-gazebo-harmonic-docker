@@ -112,9 +112,9 @@ In ```ros2-jazzy-gazebo-harmonic-docker/docker-compose.yaml```
       - ./gazebo-sim-plugins-tutorial/standalone_gz_sim_plugins:/root/standalone_gz_sim_plugins
 ```
 
-```X11:``` for display access
-```ros2_ws```: entire ```ros2_ws``` is mounted inside ```root/ros2_ws```. So any changes we make in ros2_ws will be reflected inside the container.
-```standalone_gz_sim_plugins``` similary ```standalone_gz_sim_plugins``` is mounted inside ```root/standalone_gz_sim_plugins```
+```X11:``` for display access <br>
+```ros2_ws```: entire **ros2_ws** is mounted inside ***root/ros2_ws***. So any changes we make in ros2_ws will be reflected inside the container.
+```standalone_gz_sim_plugins``` similary ***standalone_gz_sim_plugins*** is mounted inside ***root/standalone_gz_sim_plugins***
 
 
 ## Troubleshooting
