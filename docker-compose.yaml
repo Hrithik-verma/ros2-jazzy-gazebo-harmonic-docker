@@ -24,6 +24,7 @@ services:
       - RMW_IMPLEMENTATION=rmw_fastrtps_cpp
       - ROS_DOMAIN_ID=0
 
+
     volumes:
       - /tmp/.X11-unix:/tmp/.X11-unix:rw
       - ./gazebo-sim-plugins-tutorial/ros2_ws:/root/ros2_ws
