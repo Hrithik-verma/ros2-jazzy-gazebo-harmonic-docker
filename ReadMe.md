@@ -5,9 +5,10 @@ Docker environment for ROS 2 Jazzy with Gazebo Harmonic. Repository is used for 
 
 YouTube Tutorial
 ----------------
-Gazebo Sim Plugin Made Easy !!!
 
-Video link: Coming soon
+[![Gazebo Sim Plugin Made Easy](https://img.youtube.com/vi/mE00kjWPwVw/0.jpg)](https://youtube.com/playlist?list=PLOQhCaBjYnsdGPI8sDskC2roKaCjJ1LTU)
+
+👉 [Gazebo Sim Plugin Made Easy – YouTube Playlist](https://youtube.com/playlist?list=PLOQhCaBjYnsdGPI8sDskC2roKaCjJ1LTU)
 
 <br>
 
